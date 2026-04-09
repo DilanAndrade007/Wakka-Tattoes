@@ -1,0 +1,7 @@
+organization=dilanandrade007
+projectKey=DilanAndrade007_Wakka-Tattoes
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.84949
+dashboardUrl=https://sonarcloud.io/dashboard?id=DilanAndrade007_Wakka-Tattoes
+ceTaskId=AZ1yuhDZNvjplroHWuzr
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ1yuhDZNvjplroHWuzr
